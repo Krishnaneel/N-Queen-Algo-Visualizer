@@ -10,4 +10,4 @@ This is a N-Queen algorithm visualizer application made using pygame
 
 ### Link to the visualizer demo
 
-<a src="https://youtu.be/JAxBUu6iThk">
+"https://youtu.be/JAxBUu6iThk"
