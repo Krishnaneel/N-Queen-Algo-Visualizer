@@ -2,7 +2,6 @@ import pygame
 WIDTH=600
 #Press left click to start execution
 # ROW determines the number of queens on the board, if you are making queens more than 5, it is suggested that you change the time to 20-50ms on line 201
-ROW=4
 WIN=pygame.display.set_mode((WIDTH, WIDTH))
 pygame.display.set_caption('N-Queen Visualizer')
 
@@ -198,10 +197,11 @@ def draw(win, grid, rows, width):
            spot.draw(win)
    draw_grid(win, rows, width)
    pygame.display.flip()
-   pygame.time.wait(200)
+   pygame.time.wait(20)
     
-
+ROW=int(input('Enter number of rows'))
 def main(win, width):
+    
     grid=make_grid(ROW,width)
     run = True
     started=False
