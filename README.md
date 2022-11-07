@@ -1,5 +1,5 @@
 # N-Queen_Algo_Visualizer
-This is a N-Queen algorithm visualizer application made using pygame
+This is an N-Queen algorithm visualizer application made using pygame
 
 <hr>
 
