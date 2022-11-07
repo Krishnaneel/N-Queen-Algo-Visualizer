@@ -1,5 +1,5 @@
-# SudokuSolver
-This is a sudoku solving application made using pygame
+# N-Queen_Algo_Visualizer
+This is a N-Queen algorithm visualizer application made using pygame
 
 <hr>
 
